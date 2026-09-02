@@ -1,0 +1,6 @@
+outputs/
+.venv/
+__pycache__/
+.DS_Store
+*.pt
+ACE_peoject.code-workspace
